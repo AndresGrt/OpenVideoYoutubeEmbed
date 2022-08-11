@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.inputs {
+    height: 40px;
+}
+
+#target {
+    background: rgb(0, 0, 0);
+    width: 100%;
+    height: calc(80vh - 50px);
+}
